@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android-shortVideo.iml" filepath="$PROJECT_DIR$/Android-shortVideo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android-shortVideo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android-shortVideo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/beauty/Android-shortVideo.beauty.iml" filepath="$PROJECT_DIR$/.idea/modules/beauty/Android-shortVideo.beauty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jpush/Android-shortVideo.jpush.iml" filepath="$PROJECT_DIR$/.idea/modules/jpush/Android-shortVideo.jpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sharedsdk/Android-shortVideo.sharedsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/sharedsdk/Android-shortVideo.sharedsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/video/Android-shortVideo.video.iml" filepath="$PROJECT_DIR$/.idea/modules/video/Android-shortVideo.video.iml" />
+    </modules>
+  </component>
+</project>
